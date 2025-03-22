@@ -1,0 +1,15 @@
+  0: black
+  1: black stripe
+  2: black star
+  3: black dot
+  4: black fork
+  5: blue
+  6: blue stripe
+  7: blue star
+  8: red
+  9: red stripe
+  10: red star
+  11: brown
+  12: orange
+  13: green
+  14: purple plaid
